@@ -1,4 +1,4 @@
-# Hi, I'm Zainab 👋
+# Hi 👋, I'm Zainab Abbas
 
 🔭 I’m currently working on **Cypress and Selenium Automation Projects**  
 
